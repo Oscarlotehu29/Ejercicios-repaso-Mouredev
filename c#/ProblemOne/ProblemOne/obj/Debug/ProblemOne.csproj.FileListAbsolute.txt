@@ -1,0 +1,6 @@
+C:\Users\Pc-Adm\Desktop\ejerciciosMouredev\c#\ProblemOne\ProblemOne\bin\Debug\ProblemOne.exe.config
+C:\Users\Pc-Adm\Desktop\ejerciciosMouredev\c#\ProblemOne\ProblemOne\bin\Debug\ProblemOne.exe
+C:\Users\Pc-Adm\Desktop\ejerciciosMouredev\c#\ProblemOne\ProblemOne\bin\Debug\ProblemOne.pdb
+C:\Users\Pc-Adm\Desktop\ejerciciosMouredev\c#\ProblemOne\ProblemOne\obj\Debug\ProblemOne.csprojResolveAssemblyReference.cache
+C:\Users\Pc-Adm\Desktop\ejerciciosMouredev\c#\ProblemOne\ProblemOne\obj\Debug\ProblemOne.exe
+C:\Users\Pc-Adm\Desktop\ejerciciosMouredev\c#\ProblemOne\ProblemOne\obj\Debug\ProblemOne.pdb
